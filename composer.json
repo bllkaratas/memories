@@ -1,0 +1,13 @@
+{
+    "name": "memories/photo-album",
+    "description": "Kızım için özel hatıra albümü",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+} 
