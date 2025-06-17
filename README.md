@@ -146,4 +146,4 @@ Kurulum veya kullanım sırasında sorun yaşarsanız:
 
 Bu proje, kızınızla aranızdaki bağı güçlendirmek ve ona ileride çok değerli olacak bir hediye bırakmak için tasarlandı. Her fotoğraf, her not, ona ne kadar değerli olduğunu gösterecek.
 
-**Mutlu anılar biriktirmeniz dileğiyle! 🌸** 
+**Mutlu anılar biriktirmeniz dileğiyle! 🌸** # memories
